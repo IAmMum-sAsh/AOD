@@ -31,4 +31,8 @@
 *.out
 *.app
 
+#my
 *.sln
+*.vcxproj
+*.filters
+*.user
